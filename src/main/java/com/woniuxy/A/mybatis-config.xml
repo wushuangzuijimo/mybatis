@@ -15,6 +15,6 @@
 				</environment>
 			</environments>
 			<mappers>
-				<mapper resource="com/woniu/domain/EmpMapper.xml" />
+				<mapper resource="com/woniuxy/A/EmpMapper.xml" />
 			</mappers>
 		</configuration>
