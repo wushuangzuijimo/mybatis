@@ -1,4 +1,4 @@
-package com.woniu.domain;
+package com.woniuxy.A;
 
 import java.io.Serializable;
 import java.util.Date;
